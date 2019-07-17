@@ -1,0 +1,50 @@
+﻿  test.cpp
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(72): warning C4305: “初始化”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(100): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(636): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(659): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(661): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(677): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(747): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(748): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(751): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(752): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(761): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(762): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(763): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(764): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(782): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(783): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(784): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(785): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(822): warning C4305: “=”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(823): warning C4305: “=”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(824): warning C4305: “=”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(825): warning C4305: “=”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(826): warning C4305: “=”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(827): warning C4305: “=”: 从“double”到“float”截断
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(864): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(876): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(880): warning C4018: “>”: 有符号/无符号不匹配
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(881): warning C4018: “>”: 有符号/无符号不匹配
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(907): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(913): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\myfiles\文档\visual studio 2015\projects\yolodll\yolodll\yolo_v2_class.hpp(938): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+test.cpp(297): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+test.cpp(297): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+test.cpp(359): warning C4018: “>”: 有符号/无符号不匹配
+test.cpp(368): warning C4018: “>”: 有符号/无符号不匹配
+test.cpp(372): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+test.cpp(373): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+test.cpp(375): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+test.cpp(376): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+test.cpp(456): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+test.cpp(456): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码
+  11 of 904 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  yolodll.vcxproj -> E:\MyFiles\文档\Visual Studio 2015\Projects\yolodll\x64\Release\yolodll.exe
+  yolodll.vcxproj -> E:\MyFiles\文档\Visual Studio 2015\Projects\yolodll\x64\Release\yolodll.pdb (Full PDB)
